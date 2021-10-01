@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "cool": "pkg:cool.json"
+        "cool": "pkg:cool.json",
+        "radio-broadcast": "*"
     },
     "files": [
         "main.blocks",
