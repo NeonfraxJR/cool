@@ -1,4 +1,4 @@
-input.onGesture(Gesture.TiltRight, function () {
+input.onGesture(Gesture.ScreenDown, function () {
     basic.showString("Hello!")
     basic.showString("how")
     basic.showString("are")
